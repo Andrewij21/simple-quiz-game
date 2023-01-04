@@ -1,2 +1,2 @@
 # simple-quiz-game
-Just a simple python project practice :)
+Just a simple quiz game with python :)
